@@ -4,4 +4,6 @@ Make some change.
 
 This is 3/21/2016
 
+I am in the new_branch group, and I need to make some changes about test1 text file.
+
 I am happy, because I finish the due about capstone last week.
