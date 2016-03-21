@@ -1,1 +1,9 @@
 This file is for new branch to develop.
+
+Now it is time to add some new features to the new_branch_file.
+
+Add the history page.
+
+Add new register page.
+
+Add some icon.
