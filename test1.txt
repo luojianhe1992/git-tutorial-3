@@ -4,4 +4,6 @@ Make some change.
 
 This is 3/21/2016
 
+I am in the master branch, in order to fix some bugs in the first release, I need to make some changes in the test1 text file.
+
 I am happy, because I finish the due about capstone last week.
